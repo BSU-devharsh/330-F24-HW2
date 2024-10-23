@@ -11,15 +11,13 @@ int main() {
 
         switch (choice) {
             case 1:  // Set bit
-                printf("Enter the bit number (0-31): ");
-                scanf("%d", &bit_num);
+                bit_num = getBitPosition();
 
                 
                 break;
 
             case 2:  // Clear bit
-                printf("Enter the bit number (0-31): ");
-                scanf("%d", &bit_num);
+                bit_num = getBitPosition();
 
                 
                 break;
