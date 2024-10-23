@@ -11,4 +11,3 @@
 - This assignment is worth ```100``` points and is due in two weeks.
 - You must follow the university student guidelines and honor code.
 - Questions are posted in ```HW3.md``` file.
-- Submissions must be made on ```GitHub```.
