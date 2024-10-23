@@ -1,6 +1,16 @@
 #include <stdio.h>
 
 
+// Function to get and validate bit position
+int getBitPosition(void) {
+    int position;
+    printf("Enter bit position (0-31): ");
+    
+
+    return position;
+}
+
+
 // Function to display menu
 void displayMenu(void) {
     printf("\nBit Manipulation Menu\n");
