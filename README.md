@@ -1,4 +1,4 @@
-# 330-F24-HW2
+# 330-F24-HW3
 
 #### Bowie State University
 #### Department of Computer Science
